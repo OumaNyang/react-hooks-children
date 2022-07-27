@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="App">
       <Container header="Example header" direction="horizontal">
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
+        <div>This is example 1</div>
+        <div>This is example 2</div>
+        <div>This is example 3</div>
+        <div>This is example 4</div>
+        <div>This is example 5</div>
+        <div>This is example 6</div>
+        <div>This is example 7</div>
       </Container>
       <Container header="Example header" textPosition="center">
         <img
